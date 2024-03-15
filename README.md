@@ -4,4 +4,18 @@
 
 # [HuggingFace page of the model](https://huggingface.co/collections/numind/paper-65e1f6e14639e2a465af823b)
 
+# [Paper](https://arxiv.org/abs/2402.15343)
+
+Citation
+```
+@misc{bogdanov2024nuner,
+      title={NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data}, 
+      author={Sergei Bogdanov and Alexandre Constantin and Timothée Bernard and Benoit Crabbé and Etienne Bernard},
+      year={2024},
+      eprint={2402.15343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
