@@ -12,7 +12,7 @@ NuNER is the family of SOTA Foundation and Zero-shot for Entity Recognition
 - **NuNER 2.0**: `numind/NuNER-v2.0` *(MIT)* - the most powerful English NER model
 - **NuNER multilingual** `numind/NuNER-multilingual-v0.1` *(MIT)* - the most powerful multilingual NER model
 - **NuNER 1.0** `numind/NuNER-v1.0` *(MIT)* - the main model from our [paper](https://arxiv.org/abs/2402.15343)
-- **NuNER BERT** `numind/NuNER-BERT-v1.0`*(MIT)* - the model used in the TadNER section of our [paper](https://arxiv.org/abs/2402.15343)
+- **NuNER BERT** `numind/NuNER-BERT-v1.0`*(MIT)* - the model used in the **TadNER** section of our [paper](https://arxiv.org/abs/2402.15343)
 
 ## Zero-shot models:
 
